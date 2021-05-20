@@ -7,5 +7,5 @@
 <a href="https://open.spotify.com/playlist/1tIMX2RirBOWrTPaqxoKA5?si=a79fdf1f867343d9">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuquitusDev)](https://github.com/anuraghazra/github-readme-stats)
